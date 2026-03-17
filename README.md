@@ -1,2 +1,2 @@
-# JavaStep
+# BookMyStayApp
 Step Program
